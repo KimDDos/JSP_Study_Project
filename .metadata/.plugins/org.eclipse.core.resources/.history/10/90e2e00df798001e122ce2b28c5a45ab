@@ -1,0 +1,10 @@
+package orm;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class DatabaseBuilder {
+	
+	private static final Logger log = LoggerFactory.getLogger(DatabaseBuilder.class);
+	
+}
